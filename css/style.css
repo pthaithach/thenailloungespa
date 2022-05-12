@@ -2024,3 +2024,14 @@ a:focus {
         margin-top: 10px;
     }
 }
+@media (max-width: 425px){
+    .navbar-brand{
+        padding: 0 !important;
+    }
+    .margin-mobile{
+        margin-top: 10px;
+    }
+    .nav-item{
+        padding-bottom: 12px;
+    }
+}
